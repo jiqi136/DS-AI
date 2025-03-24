@@ -68,4 +68,4 @@ Windows 7/Win10/Win11
 
 ### 下载地址
 
-- [123盘下载-密码:8606](https://wwtl.lanzoum.com/b0fpcpmbg  "DS-github" target="_blank")
+- <a href="https://wwtl.lanzoum.com/b0fpcphqb" target="_blank">123盘下载-密码:6zls</a>

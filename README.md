@@ -67,6 +67,6 @@ Windows 7/Win10/Win11
 ## 立即体验智能跃迁，让每台PC都拥有超算级AI能力！
 
 ### 下载地址
-- [123盘下载](https://www.123865.com/s/nKjJjv-meJ5d)
+- [123盘下载](https://www.123865.com/s/nKjJjv-1eJ5d)
  - [蓝盘下载-密码:8606](https://wwtl.lanzoum.com/b0fpcpmbg)
  

@@ -1,7 +1,5 @@
-### 远古洛书-无限数值幻方
-[中文文档](https://github.com/jiqi136/Magic-square/blob/main/%E8%BF%9C%E5%8F%A4%E6%B4%9B%E4%B9%A6-%E6%97%A0%E9%99%90%E6%95%B0%E5%80%BC%E5%B9%BB%E6%96%B9-%E4%B8%AD%E6%96%87.md)
-### Infinite Numerical Magic Square
-[GitHub Repository](https://github.com/jiqi136/Magic-square)
+[远古洛书-无限数值幻方](https://github.com/jiqi136/Magic-square/blob/main/%E8%BF%9C%E5%8F%A4%E6%B4%9B%E4%B9%A6-%E6%97%A0%E9%99%90%E6%95%B0%E5%80%BC%E5%B9%BB%E6%96%B9-%E4%B8%AD%E6%96%87.md)
+[Infinite Numerical Magic Square](https://github.com/jiqi136/Magic-square)
 
 ## 软件名称
     多平台联网DeepSeek满血AI-V3.3 绿色便捷版

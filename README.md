@@ -27,6 +27,7 @@ Windows 7/Win10/Win11
 **超长文本处理** | 支持65,010 tokens上下文记忆，多轮对话渐进优化  
 **正宗DS长回复** | 基于DeepSeek-R1（5月28日）模型，轻松创作数万字小说  
 
+![C2.png](https://h1.appinn.me/file/1749809265128_C2.png)
 ---
 
 1.  **智能对话管理，灵活省资源：**
@@ -57,7 +58,7 @@ Windows 7/Win10/Win11
 | **抖音火山引擎**    | `deepseek-r1` (671B满血版) *免费体验* <br> `deepseek-r1-distill-qwen-32b` (32B精炼版) *免费体验* | 免费体验额度高达 **50万 tokens** |
 | **阿里云**          | `deepseek-r1` (671B旗舰版)  <br> `r1-distill-llama-70b` (70B增强版) *完全免费* | 70B完全免费 <br>免费体验额度 **100万 tokens**    |
 
-
+   ![A2.png](https://h1.appinn.me/file/1742828078490_A2.png)
 
 ---
 
@@ -110,11 +111,5 @@ https://www.virscan.org/report/a7fdcc80dda1e38a78e4c2cbc7d1bcaa33c0e6a3593d1e4d9
 *   **蓝奏云下载 密码:8606 ：** [[https://wwtl.lanzouv.com/b05fmred](https://wwtl.lanzouv.com/b05fmred)](https://wwtl.lanzoum.com/b0fpcpmbg)
 
 **深度求索 DeepSeek-R1 赋能 | 本地安全 | 实时联网智能 | 创作无限**
-
-![C2.png](https://h1.appinn.me/file/1742828077617_C2.png)
-
-
-   ![A2.png](https://h1.appinn.me/file/1742828078490_A2.png)
-
 
  

@@ -104,11 +104,13 @@ Windows 7/Win10/Win11
 **安全可靠：**
 *   本地运行，数据自主掌控。
 *   在线杀软检测 (VirScan) 全绿通过 (0/48 引擎检出)。
-https://www.virscan.org/report/a7fdcc80dda1e38a78e4c2cbc7d1bcaa33c0e6a3593d1e4d9fa5abba8a9cd0e4
+
+<a href="https://www.virscan.org/report/a7fdcc80dda1e38a78e4c2cbc7d1bcaa33c0e6a3593d1e4d9fa5abba8a9cd0e4" target="_blank" rel="noopener noreferrer">https://www.virscan.org/report/a7fdcc80dda1e38a78e4c2cbc7d1bcaa33c0e6a3593d1e4d9fa5abba8a9cd0e4</a>
 
 **立即下载，让每台PC拥有超算级AI！**
 
-*   **蓝奏云下载 密码:8606 ：** [[https://wwtl.lanzoum.com/b0fpcpmbg](https://wwtl.lanzoum.com/b0fpcpmbg)]
+*   **蓝奏云下载 密码:8606 ：** 
+<a href="https://wwtl.lanzoum.com/b0fpcpmbg" target="_blank" rel="noopener noreferrer">https://wwtl.lanzoum.com/b0fpcpmbg</a>
 
 **深度求索 DeepSeek-R1 赋能 | 本地安全 | 实时联网智能 | 创作无限**
 

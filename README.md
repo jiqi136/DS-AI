@@ -108,7 +108,7 @@ https://www.virscan.org/report/a7fdcc80dda1e38a78e4c2cbc7d1bcaa33c0e6a3593d1e4d9
 
 **立即下载，让每台PC拥有超算级AI！**
 
-*   **蓝奏云下载 密码:8606 ：** [[https://wwtl.lanzouv.com/b05fmred](https://wwtl.lanzouv.com/b05fmred)](https://wwtl.lanzoum.com/b0fpcpmbg)
+*   **蓝奏云下载 密码:8606 ：** [[https://wwtl.lanzoum.com/b0fpcpmbg](https://wwtl.lanzoum.com/b0fpcpmbg)]
 
 **深度求索 DeepSeek-R1 赋能 | 本地安全 | 实时联网智能 | 创作无限**
 

@@ -44,6 +44,7 @@ Windows 7/Win10/Win11
 ### 🌐 实时联网搜索专项优化  
 **功能** | **突破性设计**  
 :--- | :---  
+**联网全文质量** |合并联网资料全文，因此质量优于仅采用部分摘要的DeepSeek网页版与APP版。
 **关键词精准锁定** | 对话首句自动识别为搜索关键词（例：“2025年7月黄金走势”）  
 **多模式灵活触发** | •  混合国内外Bing搜索+繁体资源<br>• **本周资讯模式** → 限定7天内最新结果  
 **手动输入网址** | 直接读取输入网址的网页内容.
@@ -112,6 +113,8 @@ Windows 7/Win10/Win11
 *   **蓝奏云下载 密码:8606 ：** 
 <a href="https://wwtl.lanzoum.com/b0fpcpmbg" target="_blank" rel="noopener noreferrer">https://wwtl.lanzoum.com/b0fpcpmbg</a>
 
+*   **123云盘下载：** [https://www.123865.com/s/nKjJjv-dsJ5d](https://www.123865.com/s/nKjJjv-dsJ5d)
+*   
 **深度求索 DeepSeek-R1 赋能 | 本地安全 | 实时联网智能 | 创作无限**
 
  

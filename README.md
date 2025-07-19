@@ -1,16 +1,16 @@
 [远古洛书-无限数值幻方](https://github.com/jiqi136/Magic-square/blob/main/%E8%BF%9C%E5%8F%A4%E6%B4%9B%E4%B9%A6-%E6%97%A0%E9%99%90%E6%95%B0%E5%80%BC%E5%B9%BB%E6%96%B9-%E4%B8%AD%E6%96%87.md)
 [Infinite Numerical Magic Square](https://github.com/jiqi136/Magic-square)
 
-实时联网Desk多通道AI桌面智能助手 绿色便捷版V7.1 
+实时联网Desk多通道AI桌面智能助手 绿色便捷版V8.1 
 ---
 ##  软件名称
-实时联网Desk多通道AI桌面智能助手 绿色便捷版(V7.1) 
+实时联网Desk多通道AI桌面智能助手 绿色便捷版(V8.1) 
 ##  应用平台
 Windows 7/Win10/Win11
 
 ---
 
-**🚀 实时联网Desk多通道AI桌面智能助手 绿色便捷版  (V7.1)**
+**🚀 实时联网Desk多通道AI桌面智能助手 绿色便捷版  (V8.1)**
 
 **核心亮点：智能上下文管理 & 多引擎实时联网**
 
@@ -19,7 +19,8 @@ Windows 7/Win10/Win11
 ### 🔥 核心优势  
 **特性** | **说明**  
 :--- | :---  
-**三通道AI引擎** | DeepSeek官方 + 阿里云 + 抖音火山联合驱动，全模型支持实时联网搜索.  
+**多通道AI引擎** | DeepSeek官方 + 多个免费R1，全模型支持实时联网搜索.  
+**集成世界多个最热门AI模型** | 集成双子座Gemini、代码claude、gpt、grok等AI模型.  
 **自定接入各类模型** | 除了deepseek-r1,还可以接入通义千问qwen、豆包doubao等各类AI模型.  
 **免费格式转换** | 一键将各类网页上AI内容转为纯文本、网页HTML、论坛BBCode，便捷分享  
 **自定搜索设置** | 实时联网获取几十个网页内容并全文参考 
@@ -30,7 +31,8 @@ Windows 7/Win10/Win11
 **超长文本处理** | 支持65,010 tokens上下文记忆，多轮对话渐进优化  
 **正宗DS长回复** | 基于DeepSeek-R1（5月28日）模型，轻松创作数万字小说  
 
-![C2.png](https://h1.appinn.me/file/1749809265128_C2.png)
+[img]https://h1.appinn.me/file/1752893195106_C2.png[/img]
+
 ---
 
 1.  **智能对话管理，灵活省资源：**
@@ -56,14 +58,14 @@ Windows 7/Win10/Win11
 
  📊 **  模型矩阵 (多通道可选)： **
 
-| 通道                | 可用模型                                                                 | 备注                          |
-| :------------------ | :----------------------------------------------------------------------- | :---------------------------- |
-| **DeepSeek官方**    | `deepseek-r1` (671B满血版) <br> `deepseek-v3` (671B满血版)                   | 旗舰性能                      |
-| **抖音火山引擎**    | `deepseek-r1` (671B满血版) *免费体验* <br> `deepseek-r1-distill-qwen-32b` (32B精炼版) *免费体验* | 免费体验额度高达 **50万 tokens** |
-| **阿里云**          | `deepseek-r1` (671B旗舰版)  <br> `r1-distill-llama-70b` (70B增强版) *完全免费* | 70B完全免费 <br>免费体验额度 **100万 tokens**    |
+
 
  
-   ![B2.png](https://h1.appinn.me/file/1750846345607_B2.png)
+[img]https://h1.appinn.me/file/1752893194473_B1.png[/img]
+
+[img]https://h1.appinn.me/file/1752893187481_B3.png[/img]
+
+[img]https://h1.appinn.me/file/1752893188250_B9.png[/img]
 
 ---
 
@@ -110,12 +112,12 @@ Windows 7/Win10/Win11
 *   本地运行，数据自主掌控。
 *   在线杀软检测 (VirScan) 全绿通过 (0/48 引擎检出)。
 
-<a href="https://www.virscan.org/report/a7fdcc80dda1e38a78e4c2cbc7d1bcaa33c0e6a3593d1e4d9fa5abba8a9cd0e4" target="_blank" rel="noopener noreferrer">https://www.virscan.org/report/a7fdcc80dda1e38a78e4c2cbc7d1bcaa33c0e6a3593d1e4d9fa5abba8a9cd0e4</a>
+https://www.virscan.org/report/81bb626d7f14a047755a610a4db0cbe8296b805de1bbe3fa55147c17c8b7eee1
 
 **立即下载，让每台PC拥有超算级AI！**
 
-*   **蓝奏云下载 密码:8606 ：** 
-<a href="https://wwtl.lanzoum.com/b0fpcpmbg" target="_blank" rel="noopener noreferrer">https://wwtl.lanzoum.com/b0fpcpmbg</a>
+*   **蓝奏云下载  ：**
+[https://wwtl.lanzoum.com/b0fpcpmbg](https://wwtl.lanzoum.com/b05fmred)
 
 *   **123云盘下载：** [https://www.123865.com/s/nKjJjv-dsJ5d](https://www.123865.com/s/nKjJjv-dsJ5d)
 *   

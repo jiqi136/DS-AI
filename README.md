@@ -12,16 +12,15 @@ Windows 7/Win10/Win11
 
 **🚀 实时联网AI助手 (V8.1)绿色便捷版**
 
-**核心亮点：免翻墙使用最热门AI模型 &多个免费R1模型**
+**核心亮点：多个免费R1模型**
 
 ---
 
-![B3.png](https://h1.appinn.me/file/1752893187481_B3.png)
 
 ### 🔥 核心优势  
 **特性** | **说明**  
 :--- | :---  
-**集成世界最热门AI模型** | 免翻墙使用双子座Gemini、代码claude、gpt、grok等AI模型.  
+
 **多通道AI引擎** | DeepSeek官方 + 多个免费R1，全模型支持实时联网搜索.  
 **自定接入各类模型** | 除了deepseek-r1,还可以接入通义千问qwen、豆包doubao等各类AI模型.  
 **免费格式转换** | 一键将各类网页上AI内容转为纯文本、网页HTML、论坛BBCode，便捷分享  
@@ -113,11 +112,11 @@ https://www.virscan.org/report/81bb626d7f14a047755a610a4db0cbe8296b805de1bbe3fa5
 
 **立即下载，让每台PC拥有超算级AI！**
 
-*   **蓝奏云下载  ：**
-[https://wwtl.lanzoum.com/b0fpcpmbg](https://wwtl.lanzoum.com/b05fmred)
 
-*   **123云盘下载：** [https://www.123865.com/s/nKjJjv-dsJ5d](https://www.123865.com/s/nKjJjv-dsJ5d)
-*   
+https://wwtl.lanzoum.com/b0fpbjhve
+密码:alzj
+
+
 **深度求索 DeepSeek-R1 赋能 | 本地安全 | 实时联网智能 | 创作无限**
 
  

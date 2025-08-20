@@ -3,7 +3,8 @@
 
 ---
 
-[AI Assistant  English version](https://sourceforge.net/projects/ai-assistant/)
+[AI Assistant  English version]
+([https://sourceforge.net/projects/ai-assistant/](https://github.com/jiqi136/DS-AI/releases))
 
 实时联网AI助手 (V8.1)绿色便捷版
 ---

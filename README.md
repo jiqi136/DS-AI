@@ -6,10 +6,10 @@
 [AI Assistant  English version]
 ([https://sourceforge.net/projects/ai-assistant/](https://github.com/jiqi136/DS-AI/releases))
 
-实时联网AI助手 (V10.1)绿色便捷版
+实时联网AI助手 (V10.3)绿色便捷版
 ---
 ##  软件名称
-实时联网AI助手 (V10.1)绿色便捷版
+实时联网AI助手 (V10.3)绿色便捷版
 ##  应用平台
 Windows 7/Win10/Win11
 
@@ -27,7 +27,7 @@ Windows 7/Win10/Win11
 **特性** | **说明**  
 :--- | :---  
 **集成世界最热门AI模型** | 免翻墙使用双子座Gemini、代码claude、gpt、grok等AI模型.  
-**接入最强代码** | 正宗DeepSeek官方强强联手接入[最强代码anthropic]
+**接入最强代码** | 正宗DeepSeek官方强强联手接入[最强代码Claude Code]
 **多模态**      | 读取图片功能与读取pdf文件功能.
 **多通道AI引擎** | DeepSeek官方 + 多个免费R1，全模型支持实时联网搜索.  
 **自定接入各类模型** | 除了deepseek-r1,还可以接入通义千问qwen、豆包doubao等各类AI模型.  

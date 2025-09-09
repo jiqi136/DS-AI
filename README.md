@@ -65,7 +65,7 @@ Windows 7/Win10/Win11
 
 
 
-![B3.png](https://h1.appinn.me/file/1757443254500_B3.png)
+![B1.png](https://h1.appinn.me/file/1757443253459_B1.png)
 
 ---
 

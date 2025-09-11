@@ -128,7 +128,7 @@ Windows 7/Win10/Win11
 
 2.  **创意与润色类**
     *   **开源或免费模型的代表模型:** `deepseek-r1`
-    *   **说明：** 妄想用`deepseek-r1`包场写小说，无疑等同于单脚百米跑步，不扑才怪。
+    *   **说明：** 妄想用`deepseek-r1`包场写小说，无疑等同于单脚百米跑步。
     *   
 
 
@@ -139,6 +139,6 @@ Windows 7/Win10/Win11
 
 *   **123云盘下载：** [https://www.123865.com/s/nKjJjv-dsJ5d](https://www.123865.com/s/nKjJjv-dsJ5d)
 *   
-**深度求索 DeepSeek-R1 赋能 | 本地安全 | 实时联网智能 | 创作无限**
+
 
  

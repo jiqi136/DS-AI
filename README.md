@@ -6,10 +6,10 @@
 [AI Assistant  English version]
 ([https://sourceforge.net/projects/ai-assistant/](https://github.com/jiqi136/DS-AI/releases))
 
-实时联网AI助手 (V13.3)绿色便捷版
+实时联网AI助手 (V16.1)绿色便捷版
 ---
 ##  软件名称
-实时联网AI助手 (V13.3)绿色便捷版
+实时联网AI助手 (V16.1)绿色便捷版
 ##  应用平台
 Windows 7/Win10/Win11
 
